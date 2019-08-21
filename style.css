@@ -1,0 +1,11 @@
+body {
+    background: purple;
+}
+
+H1 {
+    font-weight: bold;
+    font-size: 24px;
+    padding: 20px;
+    text-align: center;
+
+}
